@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "656318332200",
+    "firebase_url": "https://about-me-7b119-default-rtdb.firebaseio.com",
+    "project_id": "about-me-7b119",
+    "storage_bucket": "about-me-7b119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656318332200:android:a6d18018faab655d6d241d",
+        "android_client_info": {
+          "package_name": "uz.shokirov.aboutme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656318332200-o0cfimorja6c6baarn730dvfq11cifvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QBjyPnKHQFEbOTwo7GfnHpzJPJf258U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656318332200-o0cfimorja6c6baarn730dvfq11cifvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656318332200:android:60feb7d7ed96c3146d241d",
+        "android_client_info": {
+          "package_name": "uz.shokirov.addermyporflios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656318332200-o0cfimorja6c6baarn730dvfq11cifvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QBjyPnKHQFEbOTwo7GfnHpzJPJf258U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656318332200-o0cfimorja6c6baarn730dvfq11cifvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
